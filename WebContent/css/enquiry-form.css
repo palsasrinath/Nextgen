@@ -1,0 +1,30 @@
+.title{
+	color:white;
+	text-align:center;
+	border-bottom:1px dotted #ff1a1a;
+}
+.title1{
+	color:white;
+		
+	font-size:18px;
+	
+}
+.gap{
+	margin-top:20px;
+}
+.check{
+	icon-size:20px;
+}
+.title2{
+	color:blue;
+	font-style:italic;
+}
+.title3{
+	color:blue;
+	font-style:italic;
+	text-align:center;
+}
+.main{
+	background:#0080c0;
+	border-radius:20px;
+}

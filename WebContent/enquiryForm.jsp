@@ -47,7 +47,7 @@
 			<div class="row gap">
 				<div class="col-md-12">
 					<div class="col-md-3">
-						<label class="title1">Name Of Child :</label>
+						<label class="title1">Name Of the Child :</label>
 					</div>
 					<div class="col-md-9">
 						<form:input type="text" class="form-control" id="nameOfChild" path="nameOfChild" required="autofocus" name=" nameOfChild" placeholder="CHILD-NAME" />

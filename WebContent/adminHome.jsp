@@ -87,7 +87,7 @@
 					<div class="modal-content">
 						<div class="modal-header">
 							<button type="button" class="close" data-dismiss="modal">&times;</button>
-							<h4 class="modal-title">Are you Sure You want to Logout?</h4>
+							<h4 class="modal-title">are you sure want to logout?</h4>
 						</div>
 						<!-- <div class="modal-body">
 							<p>You are Sucessfully Logged Out</p>
